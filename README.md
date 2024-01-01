@@ -1,6 +1,6 @@
 # World-Development-Data-Visualization
 
-### Web App: https://wdvisualizer.streamlit.app/
+### Web App: https://worldvisual.streamlit.app/
 
 World Development Data Visualizer. Compare a indicator between different countries, get correlations between two indicators, visualize growth of indicators, and download graphs and data
 
