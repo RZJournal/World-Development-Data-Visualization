@@ -14,7 +14,7 @@ df = read_df()
 
 st.markdown("# World Development Data Visualizer")
 st.markdown("###### Generate cool graphs that visualize development indicators for countries or regions!")
-st.markdown("Socials: [Github](https://github.com/devmonkeyy) [Discord](https://discord.gg/Av3tAFfkEq) [Reddit](https://www.reddit.com/user/devmonkeyy)")
+st.markdown("Socials: [Github](https://github.com/RZJournal) Twitter](https://twitter.com/RZJournal) [Instagram](https://instagram.com/RZJournal)")
 st.caption("Dataset from [link](https://www.kaggle.com/datasets/kaggle/world-development-indicators/versions/2?resource=download)")
 st.sidebar.markdown("# Main page 🎈")
 
